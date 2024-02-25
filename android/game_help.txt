@@ -1,0 +1,27 @@
+
+     游戏玩法
+  选择上下左右其中一个方向去滑动屏幕, 每滑动一次, 所有的数字方块会往滑动的方向靠拢, 如果两个方块的数字相同,那么这两个数字会合并成一个新的数字, 合并值是两个数字子和.例如:
+  2+2=4;
+  4+4=8;
+
+  ...
+  512+512=1024;
+  1024+1024=2048;
+  当其中的某个方块的数字为2048时, 游戏胜利!
+  每次滑动屏幕并且有方块移动后, 会随机在空白格子产生一个2或者4.
+  少年们，发挥你们的聪明才智, 赶快来合成2048吧!
+
+
+
+
+                        Gameplay
+   Select one of the up, down, left and right directions to slide the screen. Each time you slide, all the number squares will move closer to the sliding direction. If the numbers of the two squares are the same, the two numbers will be merged into a new number. The combined value is two. Numbers and . For example:
+   2+2=4;
+   4+4=8;
+
+   ...
+   512+512=1024;
+   1024+1024=2048;
+   When the number of one of the squares is 2048, the game wins!
+   Each time you slide the screen and move the square, it will randomly generate a 2 or 4 in the blank grid.
+   Teenagers, to play your ingenuity, come and synthesize 2048! 

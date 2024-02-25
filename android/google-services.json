@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "960101180254",
+    "firebase_url": "https://album-acb2f.firebaseio.com",
+    "project_id": "album-acb2f",
+    "storage_bucket": "album-acb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960101180254:android:64c67ae81c6dfeeb",
+        "android_client_info": {
+          "package_name": "com.star.game2048"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960101180254-utfbn60fehjl2pf07oie1e9e0ibft403.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzqE5A5V02y1kJiXaDWl13_nzFH7sqvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960101180254:android:2a31d24971271f0b",
+        "android_client_info": {
+          "package_name": "star.me.album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960101180254-utfbn60fehjl2pf07oie1e9e0ibft403.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzqE5A5V02y1kJiXaDWl13_nzFH7sqvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
